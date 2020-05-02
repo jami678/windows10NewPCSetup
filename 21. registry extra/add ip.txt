@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{NIC-id}
+find ip
+TcpAckFrequency=1
+TCPNoDelay=1
+TcpDelAckTicks=0
