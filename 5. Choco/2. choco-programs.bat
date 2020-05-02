@@ -1,7 +1,12 @@
 @echo on
-choco install firefox -y
-choco install razer-synapse-2 -y
+<<<<<<< HEAD
 choco install 7zip -y
+choco install firefox -y
+choco install setdefaultbrowser -y
+choco install nircmd -y
+choco install multimonitortool -y
+choco install nvidia-inspector -y
+choco install razer-synapse-2 -y
 choco install phpstorm -y
 choco install docker-desktop -y
 choco install git -y
@@ -18,15 +23,10 @@ choco install mysql.workbench -y
 choco install defraggler -y
 choco install sharex -y
 choco install discord -y
-choco install setdefaultbrowser v
-choco install nircmd -y
-choco install multimonitortool -y
 choco install steam -y
 choco install f.lux -y 
 choco install phpstorm -y
 choco install sourcetree -y
-choco install setdefaultbrowser -y
-choco install nvidia-inspector -y
 choco install jbs -y
 choco install disable-nvidia-telemetry -y
 pause

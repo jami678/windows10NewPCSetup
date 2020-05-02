@@ -1,4 +1,5 @@
 @echo on
+pushd %~dp0
 ECHO starting bat download
 powershell -command "Invoke-WebRequest 'https://static.tp-link.com/res/down/soft/TL-WN781ND_V2_160108.zip' -OutFile 'TL-WN781ND_V2_160108.zip'"
 7z x TL-WN781ND_V2_160108.zip

@@ -36,3 +36,4 @@ schtasks /Change /TN "\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingSca
 schtasks /Change /TN "\Microsoft\Windows\Diagnosis\Scheduled" /disable
 schtasks /Change /TN "\Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
 del /F /Q "C:\Windows\System32\Tasks\Microsoft\Windows\SettingSync\*" 
+pause

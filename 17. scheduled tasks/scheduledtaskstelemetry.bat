@@ -22,3 +22,4 @@ REM schtasks /Change /TN "Microsoft\Windows\Time Synchronization\ForceSynchroniz
 REM schtasks /Change /TN "Microsoft\Windows\Time Synchronization\SynchronizeTime" /Disable
 REM schtasks /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /Disable
 REM schtasks /Change /TN "Microsoft\Windows\WindowsUpdate\Automatic App Update" /Disable
+pause

@@ -35,4 +35,6 @@ reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Ad
 
 REM *** Set Windows Explorer to start on This PC instead of Quick Access ***
 REM 1 = This PC, 2 = Quick access
+
 REM reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "LaunchTo" /t REG_DWORD /d 1 /f
+pause
