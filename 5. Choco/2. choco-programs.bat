@@ -1,5 +1,4 @@
 @echo on
-<<<<<<< HEAD
 choco install 7zip -y
 choco install firefox -y
 choco install setdefaultbrowser -y
