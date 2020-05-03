@@ -31,4 +31,5 @@ choco install disable-nvidia-telemetry -y
 choco install slack -y
 choco install goggalaxy -y
 choco install epicgameslauncher -y
+choco install google-backup-and-sync -y
 pause
