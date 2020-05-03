@@ -28,4 +28,7 @@ choco install phpstorm -y
 choco install sourcetree -y
 choco install jbs -y
 choco install disable-nvidia-telemetry -y
+choco install slack -y
+choco install goggalaxy -y
+choco install epicgameslauncher -y
 pause
